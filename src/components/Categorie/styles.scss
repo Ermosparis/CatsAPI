@@ -1,0 +1,13 @@
+.categorie-li {
+  color: white;
+  border: 1px solid white;
+  list-style: none;
+  padding: 10px;
+  text-transform: uppercase;
+  font-size: 1.2em;
+}
+
+.categorie-li:hover {
+  cursor: pointer;
+  background-color: burlywood;
+}
